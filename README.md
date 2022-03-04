@@ -15,7 +15,11 @@ file_name = input("Enter the file name: ")
 ```
 Enter the file name: mbox-short.txt
 Average spam confidence: 0.7507185185185187
+```
 
+OR
+
+```
 Enter the file name: mbox-long.txt
 Average spam confidence: 0.8941280467445736
 ```
