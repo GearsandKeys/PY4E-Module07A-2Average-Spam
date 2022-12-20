@@ -3,4 +3,6 @@ def print_count_of_spam_confidence() -> None:
     file_name = input("Enter a file name: ")
 
 
-print_count_of_spam_confidence()
+if __name__ == "__main__":
+    print_count_of_spam_confidence()
+    
