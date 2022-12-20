@@ -23,3 +23,6 @@ OR
 Enter the file name: mbox-long.txt
 Average spam confidence: 0.8941280467445736
 ```
+
+## Test
+When you're ready, run `pytest` in the terminal
